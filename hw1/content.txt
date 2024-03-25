@@ -1,0 +1,19 @@
+order;notebook;2;1500
+order;book;2;2000;0;1500;12
+order;pen;0;2000;0;1500
+order;pencil;two;2000;0;1500
+orderpencil2200011500
+order;tv;2;2000;1;1500
+order;ps;4;8000;2;1500
+order;computer;2;5000;3;1501
+order;smartphone;0;5000;2;1501
+order;smartphone;2;3000;3;1502
+retail_customer;yakup;genc;kocaeli;+902626052201;1500;500
+retail_customer;salih;sarp;unknown;+902626052299;1500;500
+retail_customer;alp arslan;bayrakci;kocaeli;;1504;500
+retail_customer;tulay;ayyildiz;kocaeli;2626050000;150000000000000000000000000000000000000000000000000010;500
+retail_cust;tulay;ayyildiz;kocaeli;2626050000;1510;500
+corporate_customer;ibrahim;sogukpinar;kocaeli;+902626052202;1501;500;gebze technical university
+retail_customer;yusuf sinan;akgul;kocaeli;+902626052203;1;501
+operator;gokhan;kaya;istanbul;+902626050004;500;2000
+operator;didem;gozupek kocaman;istanbul;+902626050006;502;2100
