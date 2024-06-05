@@ -6,7 +6,7 @@ This repository contains course homework and their solutions.
 
 | #      	| #1  	| #2  	| #3 	| #4  	| #5  	| #6 	| #7    |  #8   |
 |--------	|-----	|-----	|----	|-----	|-----	|------	|------	|-------|
-| Grades 	| 100   |  93	| 100	|  100 	| 100  	|  100 	|      	|		|
+| Grades 	| 100   |  93	| 100	|  100 	| 100  	|  100 	|  100 	| 100	|
 
 The course was given by Dr. Gökhan Kaya at Gebze Technical University for the Department of Computer Engineering in the Spring 2024.
 
